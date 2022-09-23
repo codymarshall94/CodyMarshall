@@ -22,4 +22,6 @@ After you're done watching me jump, you can see my technical work on my [Portfol
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
+### :fire: My Stats :
+
 [comment]: <> (Letter y icons created by Vitaly Gorbachev - Flaticon)
