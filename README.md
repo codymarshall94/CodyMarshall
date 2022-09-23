@@ -11,5 +11,9 @@ Since taking my first bootcamp and struggling to center my divs, I have found my
 
 After you're done watching me jump, you can see my technical work on my [Portfolio](https://codymarshall.netlify.app/)  ![online-test](https://user-images.githubusercontent.com/43764448/192040985-532aafb0-95f8-454a-9feb-f61b45f3e156.png)
 
+## Languages
+
+<img src="![react-original](https://user-images.githubusercontent.com/43764448/192045618-1bcbb29f-e5f0-403a-8cc7-fd06d7478009.svg)"></img>
+
 
 [comment]: <> (Letter y icons created by Vitaly Gorbachev - Flaticon)
