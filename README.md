@@ -7,4 +7,6 @@ Since taking my first bootcamp and struggling to center my divs, I have found my
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/43764448/192037443-04e06747-c261-451f-a6a3-12a565bc096e.gif)
 
+After you're done watching me jump, you can see my technical work on my [Portfolio](https://codymarshall.netlify.app/)
+
 [comment]: <> (Letter y icons created by Vitaly Gorbachev - Flaticon)
