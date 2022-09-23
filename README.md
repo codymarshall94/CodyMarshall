@@ -1,5 +1,7 @@
 # Hey, I'm Cody ![letter-y (1)](https://user-images.githubusercontent.com/43764448/192039183-0913b7e3-3a85-403d-ab5f-20156191b760.png)
 
+<img>https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge</img>
+
 ### Aspiring Front-End Developer
 
 I've been teaching, performing and training Parkour for 11 years. In December 2021 I moved to the United States and found a new passion in Front-End Development.
