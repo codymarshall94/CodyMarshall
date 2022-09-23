@@ -13,7 +13,7 @@ After you're done watching me jump, you can see my technical work on my [Portfol
 
 ## Languages
 
-<img src="[![react-original](https://user-images.githubusercontent.com/43764448/192045618-1bcbb29f-e5f0-403a-8cc7-fd06d7478009.svg)](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)"></img>
+<img src="[![react-original](https://user-images.githubusercontent.com/43764448/192045618-1bcbb29f-e5f0-403a-8cc7-fd06d7478009.svg)](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)" title="React" alt="React" width="40" height="40"></img>
 
 
 [comment]: <> (Letter y icons created by Vitaly Gorbachev - Flaticon)
