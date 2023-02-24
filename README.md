@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/cody-marshall94/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></img></a>
 
-### Aspiring Front-End Developer
+### Front-End Developer
 
 I've been teaching, performing and training Parkour for 11 years. In December 2021 I moved to the United States and found a passion in Front-End Development.
 Since taking my first bootcamp and struggling to center my divs, I have found my way with React and have since created multiple projects that are fun, unique and help me and others personally.
