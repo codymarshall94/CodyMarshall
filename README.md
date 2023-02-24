@@ -11,7 +11,7 @@ Since taking my first bootcamp and struggling to center my divs, I have found my
 
 After you're done watching me jump, you can see my technical work on my [Portfolio](https://codymarshall.netlify.app/)  ![online-test](https://user-images.githubusercontent.com/43764448/192040985-532aafb0-95f8-454a-9feb-f61b45f3e156.png)
 
-## Things I feel skilled in
+## I am skilled in
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
