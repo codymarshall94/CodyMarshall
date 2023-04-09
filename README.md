@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cody Marshall</h1>
-<h3 align="center">A passionate full-stack developer specialized in react</h3>
+<h3 align="center">A passionate Front-End developer specialized in react</h3>
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/43764448/192037443-04e06747-c261-451f-a6a3-12a565bc096e.gif)
 
